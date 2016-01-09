@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Бакурский Иван / Рка</title>
+    <description>Тут будет лог моих работ</description>
+    <link>http://bakursky.github.io/work//work/</link>
+    <atom:link href="http://bakursky.github.io/work//work/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 09 Jan 2016 03:37:59 +0300</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2016 03:37:59 +0300</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>вандольч</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Jan 2016 17:59:43 +0300</pubDate>
+        <link>http://bakursky.github.io/work//work/jekyll/update/2016/01/08/wandolch.html</link>
+        <guid isPermaLink="true">http://bakursky.github.io/work//work/jekyll/update/2016/01/08/wandolch.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>лаунчмейкер</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Jan 2016 17:59:43 +0300</pubDate>
+        <link>http://bakursky.github.io/work//work/jekyll/update/2016/01/08/launchmaker.html</link>
+        <guid isPermaLink="true">http://bakursky.github.io/work//work/jekyll/update/2016/01/08/launchmaker.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>электро вейв</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Jan 2016 17:59:43 +0300</pubDate>
+        <link>http://bakursky.github.io/work//work/jekyll/update/2016/01/08/electro-wave.html</link>
+        <guid isPermaLink="true">http://bakursky.github.io/work//work/jekyll/update/2016/01/08/electro-wave.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>даймонд бутик</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Jan 2016 17:59:43 +0300</pubDate>
+        <link>http://bakursky.github.io/work//work/jekyll/update/2016/01/08/diamond-boutique.html</link>
+        <guid isPermaLink="true">http://bakursky.github.io/work//work/jekyll/update/2016/01/08/diamond-boutique.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>клодо</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Jan 2016 17:59:43 +0300</pubDate>
+        <link>http://bakursky.github.io/work//work/jekyll/update/2016/01/08/clodo.html</link>
+        <guid isPermaLink="true">http://bakursky.github.io/work//work/jekyll/update/2016/01/08/clodo.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>вавилон</title>
+        <description>
+</description>
+        <pubDate>Fri, 08 Jan 2016 17:59:43 +0300</pubDate>
+        <link>http://bakursky.github.io/work//work/logo/2016/01/08/babylon.html</link>
+        <guid isPermaLink="true">http://bakursky.github.io/work//work/logo/2016/01/08/babylon.html</guid>
+        
+        
+        <category>logo</category>
+        
+      </item>
+    
+  </channel>
+</rss>
